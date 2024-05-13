@@ -1,0 +1,2 @@
+dbname;user;password;host;host2
+STORE_SALES;postgres;Postgres!1;localhost;host.docker.internal

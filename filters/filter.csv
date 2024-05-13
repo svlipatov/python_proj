@@ -1,0 +1,7 @@
+load_num,load_field,value
+0,STORE,1
+0,DAY,2013-01-02
+0,DAY,2013-01-03
+1,STORE,2
+1,DAY,2013-01-05
+1,DAY,2013-01-06
